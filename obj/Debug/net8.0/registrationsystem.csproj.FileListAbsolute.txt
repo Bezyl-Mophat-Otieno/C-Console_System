@@ -1,0 +1,14 @@
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\bin\Debug\net8.0\registrationsystem.exe
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\bin\Debug\net8.0\registrationsystem.deps.json
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\bin\Debug\net8.0\registrationsystem.runtimeconfig.json
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\bin\Debug\net8.0\registrationsystem.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\bin\Debug\net8.0\registrationsystem.pdb
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.AssemblyInfoInputs.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.AssemblyInfo.cs
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.csproj.CoreCompileInputs.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\refint\registrationsystem.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.pdb
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.genruntimeconfig.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\ref\registrationsystem.dll
