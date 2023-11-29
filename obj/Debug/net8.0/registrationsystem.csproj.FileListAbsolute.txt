@@ -12,3 +12,4 @@ C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.
 C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.pdb
 C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.genruntimeconfig.cache
 C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\ref\registrationsystem.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\registrationsystem\obj\Debug\net8.0\registrationsystem.sourcelink.json
