@@ -18,7 +18,7 @@ class Program
         Console.WriteLine("Enter Your Password");
         string password = Console.ReadLine();
         // Register the User
-        User user = new User(username! , password! , userId);
+        User user = new User(username , password , userId);
 
         user.Registration(path);
 

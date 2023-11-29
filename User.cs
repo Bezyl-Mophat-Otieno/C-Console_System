@@ -8,7 +8,7 @@ public class User
     public bool isAdmin {get;set;}
 
     
-    public User (string username , string password , int userId , bool isAdmin=true){
+    public User (string username , string password , int userId , bool isAdmin=false){
         this.username = username;
         this.password = password;
         this.userId =   userId;
@@ -25,10 +25,9 @@ public class User
         File.AppendAllText(path,"\n");
         File.AppendAllText(path,this.userId.ToString());
         File.AppendAllText(path,"\n");
+        
 
       
-
-
 
         Console.WriteLine("Registration Successful");
 
@@ -41,12 +40,11 @@ public class User
             bool isMatch = false;
             bool isMatchUser = false;
             bool isMatchAdmin = false;
-            for (int i = 0; i < data.Length; i++)
-            { 
+            
                 isMatchUser = (data[0] == username && data[1] == password) ? true : false;
                 isMatchAdmin = (data[4] == username && data[5] == password) ? true : false;
                 isMatch = isMatchUser || isMatchAdmin;
-            }
+            
 
             Dictionary<string,object> user = new Dictionary<string,object>();
             user.Add("userId",userId);
